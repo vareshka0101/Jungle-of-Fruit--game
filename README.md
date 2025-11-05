@@ -4,7 +4,7 @@
 
 "Collect the Fruits" is a simple and engaging game built with React where players must click on fruits that appear randomly on the screen to collect them and earn points. This project demonstrates the use of React state management, event handling, and dynamic UI updates.  This project was created as a practice excercise to learn React.
 
-<img width="887" height="748" alt="Безымянный" src="https://github.com/user-attachments/assets/117f4170-bcd5-4969-80f2-9cd576ea1b3d" />
+<img width="787" height="648" alt="Безымянный" src="https://github.com/user-attachments/assets/117f4170-bcd5-4969-80f2-9cd576ea1b3d" />
 
 ## Features
 
