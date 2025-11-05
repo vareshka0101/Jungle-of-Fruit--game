@@ -1,12 +1,82 @@
-# React + Vite
+# Collect the Fruits: A Simple React Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+"Collect the Fruits" is a simple and engaging game built with React where players must click on fruits that appear randomly on the screen to collect them and earn points. This project demonstrates the use of React state management, event handling, and dynamic UI updates.  This project was created as a practice excercise to learn React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+*   **Dynamic Fruit Generation:** Fruits appear on the screen at random intervals and positions.
+*   **Clickable Fruits:** Clicking on a fruit removes it from the screen and increases the player's score.
+*   **Score Tracking:**  The game keeps track of the player's score, updated in real-time as fruits are collected.
+*   **Basic Styling:** The game features a visually appealing interface with basic CSS styling.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+*   React
+*   Vite
+*   JavaScript
+*   CSS
+
+## Getting Started
+
+### Prerequisites
+
+*   [Node.js](https://nodejs.org/)
+*   [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
+
+### Installation
+
+1.  **Clone the repository:**
+
+    ```bash
+    git clone [Jungle-of-Fruit--game](https://github.com/vareshka0101/Jungle-of-Fruit--game.git)
+    ```
+
+
+2.  **Navigate to the project directory:**
+
+    ```bash
+    cd game_fruit
+    ```
+
+3.  **Install dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+    or
+
+    ```bash
+    yarn install
+    ```
+
+### Running the Game
+
+1.  **Start the development server:**
+
+    ```bash
+    npm start
+    ```
+
+    or
+
+    ```bash
+    yarn start
+    ```
+
+2.  **Open the game in your browser:**
+
+    Go to `http://localhost:3000` in your web browser to play the game.
+
+## How to Play
+
+*   Fruits will randomly appear on the screen.
+*   Click on the fruits to collect them.
+*   Each collected fruit increases your score.
+*   Try to collect as many fruits as possible!
+*   
+## Have a good game!
+
+
