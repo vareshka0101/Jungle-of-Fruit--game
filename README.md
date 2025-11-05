@@ -18,13 +18,6 @@
 *   JavaScript
 *   CSS
 
-## Getting Started
-
-### Prerequisites
-
-*   [Node.js](https://nodejs.org/)
-*   [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
-
 ### Installation
 
 1.  **Clone the repository:**
