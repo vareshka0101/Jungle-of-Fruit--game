@@ -30,7 +30,7 @@
 2.  **Navigate to the project directory:**
 
     ```bash
-    cd game_fruit
+    cd Jungle-of-Fruit--game
     ```
 
 3.  **Install dependencies:**
