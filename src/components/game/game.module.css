@@ -1,0 +1,92 @@
+.fruit {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    cursor: pointer;
+    user-select: none;
+
+
+    border-radius: 50%;
+}
+
+.fruit span {
+    font-weight: bold;
+    color: white;
+
+}
+
+
+.gameContainer {
+    position: relative;
+    margin: 50px auto;
+    width: 800px;
+    height: 600px;
+    overflow: hidden;
+    background-image: url('./images/fon.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+
+}
+
+.scoreDisplay {
+    position: absolute;
+    top: 40px;
+    left: 70px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-size: 1.6em;
+    font-family: sans-serif;
+    z-index: 10;
+
+}
+
+.gameInnerContainer {
+    width: 500px;
+    height: 280px;
+    margin: 220px auto;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    position: relative;
+}
+
+
+button {
+    position: absolute;
+    bottom: 40px;
+    right: 330px;
+    width: 150px;
+    height: 45px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.startButton,
+.stopButton {
+
+    border-radius: 5px;
+    background: #07cc00;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(28, 28, 28);
+    border: none;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.9);
+
+}
+
+.stopButton {
+    background: #f86161;
+    font-weight: bold;
+    border: none;
+}
