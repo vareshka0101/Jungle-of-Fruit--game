@@ -2,7 +2,7 @@
 
 ## Description
 
-"Collect the Fruits" is a simple and engaging game built with React where players must click on fruits that appear randomly on the screen to collect them and earn points. This project demonstrates the use of React state management, event handling, and dynamic UI updates.  This project was created as a practice excercise to learn React.
+"Jungle of Fruits" is a simple and engaging game built with React where players must click on fruits that appear randomly on the screen to collect them and earn points. This project demonstrates the use of React state management, event handling, and dynamic UI updates.  This project was created as a practice excercise to learn React.
 
 <img width="687" height="548" alt="Безымянный" src="https://github.com/user-attachments/assets/117f4170-bcd5-4969-80f2-9cd576ea1b3d" />
 
