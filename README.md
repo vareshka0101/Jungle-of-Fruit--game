@@ -76,7 +76,7 @@
 *   Click on the fruits to collect them.
 *   Each collected fruit increases your score.
 *   Try to collect as many fruits as possible!
-*   
+    
 ## Have a good game!
 
 
