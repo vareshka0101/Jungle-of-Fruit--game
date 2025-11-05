@@ -1,4 +1,4 @@
-# Collect the Fruits: A Simple React Game
+# Jungle of Fruits: A Simple React Game
 
 ## Description
 
