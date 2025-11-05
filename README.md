@@ -30,7 +30,7 @@
 1.  **Clone the repository:**
 
     ```bash
-    git clone [Jungle-of-Fruit--game](https://github.com/vareshka0101/Jungle-of-Fruit--game.git)
+    git clone https://github.com/vareshka0101/Jungle-of-Fruit--game.git
     ```
 
 
